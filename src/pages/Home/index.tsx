@@ -14,12 +14,6 @@ export default function App() {
     }, 310);
   };
 
-  window.onload = () => {
-    document.onkeydown = function (e) {
-      return e.code != 'F5';
-    };
-  };
-
   return (
     <Container>
       <Globals />
