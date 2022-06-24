@@ -32,10 +32,10 @@ export default function Quiz({ topic }: { topic: string }) {
   }
   document.onkeydown = function (e) {
     const keys = quiz.questions[currentQuestion].options.length;
-    const digit = e.code.slice(e.code.indexOf('digit'));
-    const key = document.querySelectorAll('ul li');
-    if (Number(digit) <= keys) {
-      key[Number(digit) - 1].click();
+    const digit = Number(e.code.slice(e.code.indexOf('digit')));
+    if (digit <= keys) {
+      let key = document.querySelectorAll('ul li')[digit - 1] as HTMLElement;
+      key.click();
     }
     return e.code != 'F5';
   };
