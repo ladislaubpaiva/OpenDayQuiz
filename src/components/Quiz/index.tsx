@@ -1,4 +1,4 @@
-import { QuestionArea, Question, Options, Option } from './styles';
+import { QuestionArea, Image, Question, Options, Option } from './styles';
 import { getQuiz } from '../../utils/getQuiz';
 import { useState } from 'react';
 import ResultQuiz from './ResultQuiz';
@@ -43,6 +43,7 @@ export default function Quiz({ topic }: { topic: string }) {
   if (quiz.questions[currentQuestion] != undefined) {
     return (
       <QuestionArea>
+        <Image src={quiz.questions[currentQuestion].img} />
         <Question>{quiz.questions[currentQuestion].question}</Question>
         <Options>
           {quiz.questions[currentQuestion].options.map(option => (

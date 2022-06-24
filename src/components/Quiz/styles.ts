@@ -4,6 +4,16 @@ export const QuestionArea = styled.section`
   width: 800px;
 `;
 
+export const Image = styled.img`
+  width: 500px;
+  height: 500px;
+  display: block;
+  margin: 0 auto;
+  object-fit: cover;
+  object-position: center top;
+  clip-path: circle();
+`;
+
 export const Question = styled.h2`
   color: #fff;
   text-align: center;
