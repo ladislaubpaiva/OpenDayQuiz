@@ -158,20 +158,20 @@ const quiz = [
     ],
   },
   {
-    img: '',
+    img: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/most-popular-video-games-of-2022-1642612227.png?crop=1.00xw:1.00xh;0,0&resize=1200:*',
     topic: 'Video-jogos',
     questions: [
       {
-        img: '',
-        question: '',
-        options: ['', ''],
-        answer: 0,
+        img: 'https://image.api.playstation.com/vulcan/img/cfn/11307x4B5WLoVoIUtdewG4uJ_YuDRTwBxQy0qP8ylgazLLc01PBxbsFG1pGOWmqhZsxnNkrU3GXbdXIowBAstzlrhtQ4LCI4.png',
+        question: 'Em que ano foi lançado o jogo Minecraft?',
+        options: ['2010', '2011', '2012'],
+        answer: 2,
       },
       {
-        img: '',
-        question: '',
-        options: ['', ''],
-        answer: 0,
+        img: 'https://t.ctcdn.com.br/Fsso5cFdfzoIIrUg21Ey8-9kpWY=/1200x675/smart/filters:format(webp)/i465599.jpeg',
+        question: 'Que empresa desenvolveu o jogo League of Legends?',
+        options: ['Riot Games', 'Valve Corporation', 'Rockstar Games'],
+        answer: 1,
       },
       {
         img: '',
