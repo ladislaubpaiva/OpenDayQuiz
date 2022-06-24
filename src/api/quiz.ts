@@ -1,6 +1,6 @@
 const quiz = [
   {
-    img: '',
+    img: 'https://bordalo.observador.pt/v2/rs:fill:900/c:770:433:nowe:0:0/q:86/plain/https://s3.observador.pt/wp-content/uploads/2016/07/04200958/inteligencia_770x433_acf_cropped.jpg',
     topic: 'Cultura Geral',
     questions: [
       {
