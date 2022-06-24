@@ -224,6 +224,73 @@ const quiz = [
 
     ],
   },
+  {
+    img: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/most-popular-video-games-of-2022-1642612227.png?crop=1.00xw:1.00xh;0,0&resize=1200:*',
+    topic: 'Anime',
+    questions: [
+      {
+        img: 'https://cdn.europosters.eu/image/750/posters/death-note-collage-i28406.jpg',
+        question: 'Quem é que morreu em Death Note?',
+        options: ['Light', 'L', 'Pai do Light', 'Todos os anteriores'],
+        answer: 4,
+      },
+      {
+        img: 'https://www.comboinfinito.com.br/principal/wp-content/uploads/2021/03/attack-on-titan.jpg',
+        question: 'Como é que o Eren Yeager morreu em Shingeki no Kyojin',
+        options: ['Decapitado', 'Esmagado', 'Devorado'],
+        answer: 1,
+      },
+      {
+        img: 'https://static.wikia.nocookie.net/onepiece/images/4/4f/Portgas_D._Ace_Anime_Infobox.png/revision/latest?cb=20190125162603&path-prefix=pt',
+        question: 'Quem é o pai do Ace em One Piece?',
+        options: ['Gol. D Roger', 'Monkey. D Garp', 'Barba Branca'],
+        answer: 1,
+      },
+      {
+        img: 'https://s.aficionados.com.br/imagens/30-personagens-de-animes-mais-poderosos-de-todos-os-tempos_f.jpg',
+        question: 'Quem é o personagem com mais protagonismo no geral?',
+        options: ['Naruto', 'Natsu', 'Kazuma'],
+        answer: 2,
+      },
+      {
+        img: '',
+        question: '',
+        options: ['', '', ''],
+        answer: 3,
+      },
+      {
+        img: '',
+        question: '',
+        options: ['', ''],
+        answer: 2,
+      },
+      {
+        img: '',
+        question: '',
+        options: ['', '', ''],
+        answer: 2,
+      },
+      {
+        img: '',
+        question: '',
+        options: ['', '', ''],
+        answer: 1,
+      },
+      {
+        img: '',
+        question: '',
+        options: ['', ''],
+        answer: 2,
+      },
+      {
+        img: '',
+        question: '',
+        options: ['', '', ''],
+        answer: 1,
+      },
+
+    ],
+  },
 ];
 
 export default quiz;
