@@ -15,7 +15,7 @@ export default function ResultQuiz({
     scoreResult: string;
   const points = Math.floor((correct / quiz) * 100);
   if (points <= 30) {
-    scoreTxt = 'Ruim';
+    scoreTxt = 'Mau';
     scoreColor = 'red';
   } else if (points <= 50) {
     scoreTxt = 'Bom';
