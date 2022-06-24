@@ -225,7 +225,7 @@ const quiz = [
     ],
   },
   {
-    img: 'https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/most-popular-video-games-of-2022-1642612227.png?crop=1.00xw:1.00xh;0,0&resize=1200:*',
+    img: 'https://i.pinimg.com/originals/20/18/be/2018be28b40374a2b2dc6f741abf84a5.jpg',
     topic: 'Anime',
     questions: [
       {
