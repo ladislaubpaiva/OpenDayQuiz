@@ -19,4 +19,8 @@ body{
   background-color: #333;
   font-family: Arial, Helvetica, sans-serif;
 }
+
+#root{
+  width: 100vw;
+}
 `;

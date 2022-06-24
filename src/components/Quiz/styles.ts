@@ -1,17 +1,24 @@
 import styled from 'styled-components';
 
 export const QuestionArea = styled.section`
-  width: 800px;
+  width: 100%;
+  max-width: 800px;
+  margin: 0 auto;
 `;
 
 export const Image = styled.img`
-  width: 500px;
+  width: 100%;
   height: 500px;
+  max-width: 500px;
   display: block;
   margin: 0 auto;
   object-fit: cover;
   object-position: center top;
   clip-path: circle();
+  @media (min-width: 768px) {
+    height: 400px;
+    max-width: 400px;
+  }
 `;
 
 export const Question = styled.h2`

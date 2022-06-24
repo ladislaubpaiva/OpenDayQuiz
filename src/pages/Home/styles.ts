@@ -2,12 +2,10 @@ import styled from 'styled-components';
 
 export const Container = styled.div`
   h1 {
-    top: 1rem;
-    left: 50%;
-    position: absolute;
+    margin-bottom: 1rem;
+    text-align: center;
     font-size: 2.8rem;
     font-variant: small-caps;
-    transform: translateX(-50%);
   }
 `;
 
@@ -16,7 +14,11 @@ export const Quizzes = styled.section`
   gap: 1.6rem;
   margin-top: 100px;
   grid-template-columns: repeat(3, 350px);
+  justify-content: center;
   transition: 0.3s;
+  @media screen and (max-width: 768px) {
+    grid-template-columns: unset;
+  }
 `;
 
 export const Footer = styled.footer`
