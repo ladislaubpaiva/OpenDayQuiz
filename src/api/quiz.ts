@@ -193,14 +193,20 @@ const quiz = [
       },
       {
         img: 'https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_TheLegendOfZeldaBreathOfTheWild_image1600w.jpg',
-        question: 'The Legend of Zelda (Breath of the Wild) é um jogo multi-plataformas.',
+        question:
+          'The Legend of Zelda (Breath of the Wild) é um jogo multi-plataformas.',
         options: ['Verdadeiro', 'Falso'],
         answer: 2,
       },
       {
         img: 'https://i0.wp.com/www.otakupt.com/wp-content/uploads/2021/11/the-game-awards-2021-logo.jpg?fit=1280%2C720&ssl=1',
-        question: 'Que jogo ganhou o prémio de melhor jogo para mobile em 2021?',
-        options: ['Pokemón Unite', 'Genshin Impact', 'MARVEL Future Revolution'],
+        question:
+          'Que jogo ganhou o prémio de melhor jogo para mobile em 2021?',
+        options: [
+          'Pokemón Unite',
+          'Genshin Impact',
+          'MARVEL Future Revolution',
+        ],
         answer: 2,
       },
       {
@@ -218,10 +224,13 @@ const quiz = [
       {
         img: 'https://www.esportznetwork.com/wp-content/uploads/2020/11/The-Esports-Awards-2020-Winners-Esportz-Network.jpg',
         question: 'Que jogo ganhou o prémio de melhor jogo de Esports em 2020?',
-        options: ['League of Legends', 'Fortnite', 'Call of Duty: Modern Warfare'],
+        options: [
+          'League of Legends',
+          'Fortnite',
+          'Call of Duty: Modern Warfare',
+        ],
         answer: 1,
       },
-
     ],
   },
   {
@@ -253,42 +262,46 @@ const quiz = [
         answer: 2,
       },
       {
-        img: '',
-        question: '',
-        options: ['', '', ''],
-        answer: 3,
-      },
-      {
-        img: '',
-        question: '',
-        options: ['', ''],
-        answer: 2,
-      },
-      {
-        img: '',
-        question: '',
-        options: ['', '', ''],
-        answer: 2,
-      },
-      {
-        img: '',
-        question: '',
-        options: ['', '', ''],
+        img: 'https://img.quizur.com/f/img62b7b8879cd9a7.80429314.jpg?lastEdited=1656207498',
+        question: 'Qual o nome dos pais de sangue da Anya?',
+        options: [
+          'Não foi revelado por enquanto',
+          'Ohato e Norata',
+          'Xanemi e Okami',
+        ],
         answer: 1,
       },
       {
-        img: '',
-        question: '',
-        options: ['', ''],
+        img: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG8O3ozK4s5wPEm29EJMBvfJfCb6UxPgBO-apIstiCgK3PVaOsIkiNFLRMw2qqzH1ALBs&usqp=CAU',
+        question: 'Quem morre em Tokyo Revengers',
+        options: ['Baji', 'Emmna', 'Draken', 'Todos os anteriores'],
+        answer: 4,
+      },
+      {
+        img: 'Quem é o criador de One Piece?',
+        question:
+          'https://rollingstone.uol.com.br/media/uploads/one-piece-live-action-series-seemingly-coming-to-netflix_1fcz.h720.jpg',
+        options: ['Eiichiro Oda', 'Masashi Kishimoto', 'Koyoharu Gotouge'],
         answer: 2,
       },
       {
-        img: '',
+        img: 'https://as01.epimg.net/meristation_en/imagenes/2022/04/21/news/1650502649_880140_1650503074_noticia_normal.jpg',
+        question: 'Qual o sobrenome de Naruto?',
+        options: ['Shippuden', 'Uzumaki', 'Namikazi'],
+        answer: 2,
+      },
+      {
+        img: 'https://criticalhits.com.br/wp-content/uploads/2019/02/tobi-uchiha-obito-32599615-1280-720.jpg',
+        question: 'Quem é o Tobi?',
+        options: ['Obito ', 'Madara', 'Sasuke'],
+        answer: 2,
+      },
+      {
+        img: 'Quem é o morto em Another?',
         question: '',
-        options: ['', '', ''],
+        options: ['Mei Misaki', 'Kouichi Sakakibara', 'Tomohiko Kazami'],
         answer: 1,
       },
-
     ],
   },
 ];
