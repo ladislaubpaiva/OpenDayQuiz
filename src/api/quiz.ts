@@ -278,9 +278,8 @@ const quiz = [
         answer: 4,
       },
       {
-        img: 'Quem é o criador de One Piece?',
-        question:
-          'https://rollingstone.uol.com.br/media/uploads/one-piece-live-action-series-seemingly-coming-to-netflix_1fcz.h720.jpg',
+        img: 'https://rollingstone.uol.com.br/media/uploads/one-piece-live-action-series-seemingly-coming-to-netflix_1fcz.h720.jpg',
+        question: 'Quem é o criador de One Piece?',
         options: ['Eiichiro Oda', 'Masashi Kishimoto', 'Koyoharu Gotouge'],
         answer: 2,
       },
@@ -294,11 +293,11 @@ const quiz = [
         img: 'https://criticalhits.com.br/wp-content/uploads/2019/02/tobi-uchiha-obito-32599615-1280-720.jpg',
         question: 'Quem é o Tobi?',
         options: ['Obito ', 'Madara', 'Sasuke'],
-        answer: 2,
+        answer: 1,
       },
       {
-        img: 'Quem é o morto em Another?',
-        question: '',
+        img: 'https://i2.wp.com/heroisx.com/wp-content/uploads/2012/02/another_anime.jpg',
+        question: 'Quem é o morto em Another?',
         options: ['Mei Misaki', 'Kouichi Sakakibara', 'Tomohiko Kazami'],
         answer: 1,
       },
