@@ -326,7 +326,7 @@ const quiz = [
         answer: 1,
       },
       {
-        img: 'https://static.wikia.nocookie.net/weakhero/images/3/3e/Ch6.jpg/revision/latest/scale-to-width-down/350?cb=20210113213714',
+        img: 'https://static.wikia.nocookie.net/weakhero/images/6/6b/Yeon_Gray.jpg/revision/latest?cb=20201226154849',
         question: 'Qual é o nome do Mamba Branca?',
         options: ['Senpai', 'Grey', 'Inazuma'],
         answer: 2,
