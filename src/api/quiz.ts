@@ -250,7 +250,7 @@ const quiz = [
         answer: 1,
       },
       {
-        img: 'https://static.wikia.nocookie.net/onepiece/images/4/4f/Portgas_D._Ace_Anime_Infobox.png/revision/latest?cb=20190125162603&path-prefix=pt',
+        img: 'https://i0.wp.com/semprefuigeek.com.br/wp-content/uploads/2022/04/One-Piece-gostaria-de-ter-apresentado-uma-historia-de-amor-para-Ace.jpg?fit=1600%2C850&ssl=1',
         question: 'Quem é o pai do Ace em One Piece?',
         options: ['Gol. D Roger', 'Monkey. D Garp', 'Barba Branca'],
         answer: 1,
