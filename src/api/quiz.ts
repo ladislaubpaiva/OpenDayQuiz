@@ -280,8 +280,8 @@ const quiz = [
       {
         img: 'https://rollingstone.uol.com.br/media/uploads/one-piece-live-action-series-seemingly-coming-to-netflix_1fcz.h720.jpg',
         question: 'Quem é o criador de One Piece?',
-        options: ['Eiichiro Oda', 'Masashi Kishimoto', 'Koyoharu Gotouge'],
-        answer: 2,
+        options: ['Koyoharu Gotouge', 'Masashi Kishimoto', 'Eiichiro Oda'],
+        answer: 3,
       },
       {
         img: 'https://as01.epimg.net/meristation_en/imagenes/2022/04/21/news/1650502649_880140_1650503074_noticia_normal.jpg',
