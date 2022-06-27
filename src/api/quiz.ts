@@ -303,6 +303,36 @@ const quiz = [
       },
     ],
   },
+  {
+    img: 'https://d5y9g7a5.rocketcdn.me/wp-content/uploads/2020/08/manga-o-que-e-historia-principais-caracteristicas-e-tipos-1024x576.png',
+    topic: 'Mangá',
+    questions: [
+      {
+        img: 'https://pbs.twimg.com/media/EtHF_ZTVgAEecTa.jpg',
+        question: 'Qual é a criança de Marley que atira em Sasha?',
+        options: ['Gabi', 'Falco', 'Eren', 'Levi'],
+        answer: 1,
+      },
+      {
+        img: 'https://valenews.com.br/wp-content/uploads/2022/03/Manga02032022trecobox.jpg',
+        question: 'Em que ano foi lançado o manga "Demom Slayer"?',
+        options: ['2020', '2018', '2022'],
+        answer: 2,
+      },
+      {
+        img: 'https://sm.ign.com/ign_pt/screenshot/default/1-13_gh4f.jpg',
+        question: 'Sung Jin Woo é o monarca...',
+        options: ['das sombras', 'da destruição', 'das bestas'],
+        answer: 1,
+      },
+      {
+        img: 'https://static.wikia.nocookie.net/weakhero/images/3/3e/Ch6.jpg/revision/latest/scale-to-width-down/350?cb=20210113213714',
+        question: 'Qual é o nome do Mamba Branca?',
+        options: ['Senpai', 'Grey', 'Inazuma'],
+        answer: 2,
+      },
+    ],
+  },
 ];
 
 export default quiz;
